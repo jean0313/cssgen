@@ -1,0 +1,19 @@
+{
+  "tpl": "jt.tmpl",
+  "config-datas": [
+    {
+      "out-file-path": "par.css",
+      "data": {
+        "mainColor": "red",
+        "hoverColor": "#fff"
+      }
+    },
+    {
+      "out-file-path": "jcmt.css",
+      "data" : {
+        "mainColor": "green",
+        "hoverColor": "#000"
+      }
+    }
+  ]
+}
